@@ -1,0 +1,6 @@
+Top 3 Memory-Hungry Processees:
+-------------------------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+deitmar     9227  0.2  5.1 3010488 445012 ?      Ssl  03:54   1:20 /usr/bin/plasmashell --no-respawn
+deitmar    12616  0.7  5.0 51725660 434784 ?     Ssl  06:46   2:01 /opt/google/chrome/chrome https://github.com/login/device
+deitmar    12721  0.7  3.6 1461723368 314564 ?   Sl   06:46   2:03 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=12627 --enable-crash-reporter=d509048d-5b5a-49c0-a680-78e1d700eee7, --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1773273363149967 --launch-time-ticks=10861858199 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,3355088099953166549,16412690435194834601,2097152 --field-trial-handle=3,i,16340348319769769531,8087987254872304022,262144 --disable-features=EyeDropper --variations-seed-version=20260227-090059.394000-production --trace-process-track-uuid=3190708990997080739
