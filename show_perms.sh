@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Current File Permissions in Octal:"
-stat -c "%a %n" *
+stat -c "%4a %n" *
 
